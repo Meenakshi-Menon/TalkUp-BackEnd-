@@ -1,0 +1,10 @@
+{
+    "env": {
+      "SG_KEY": "your_key",
+      "ZEGO_APP_ID":"your_pw",
+      "ZEGO_SERVER_SECRET":"your_secret"
+      
+    }
+  }
+  
+  
